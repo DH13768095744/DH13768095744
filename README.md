@@ -10,7 +10,7 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DH13768095744&hide_border=true&layout=compact" align="left" />  
 
 ## My Skill Set⭐  
-  
+ <table><tr><td valign="top" width="33%">
 
 <div align="center">  
 <a href="https://www.cprogramming.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/c-original.svg" alt="C" height="50" /></a>  
@@ -21,7 +21,7 @@
 <a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" /></a>  
 <a href="https://pytorch.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/pytorch-icon.svg" alt="pytorch" height="50" /></a>  
 </div>  
-
+</td><td valign="top" width="33%">
 <br/>  
 
 
