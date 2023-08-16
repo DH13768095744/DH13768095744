@@ -29,19 +29,7 @@
 
 
 ## Language Stats  
-<table><tr><td valign="top" width="33%">
-
-
-
-</td><td valign="top" width="33%">
-
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DH13768095744&hide_border=true&layout=compact" align="left" />
-
-</td><td valign="top" width="33%">
-
-
-
-</td></tr></table>
 <br />
 
 ----
