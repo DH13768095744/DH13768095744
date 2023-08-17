@@ -8,7 +8,6 @@
 我有开源Robomaster能量机关的跟踪+识别+预测
 感兴趣可以去项目RM_Buff_Tracker看看，项目有对应demo，b站有对应教程和演示  
 
-
 <br/>  
 
 
@@ -22,7 +21,6 @@
 <a href="https://www.latex-project.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/latex.png" alt="LaTeX" height="50" /></a>  
 </div>  
 
-
 <br/>  
 
 ## Github Stats  
@@ -33,7 +31,9 @@
 
 ## Language Stats  
 
-<img src="https://github-readme-stats-ten-gilt.vercel.app/api/top-langs/?username=DH13768095744&hide_border=true" align="center" />
+
+
+<div align="center"><img src="https://github-readme-stats-ten-gilt.vercel.app/api/top-langs/?username=DH13768095744&hide_border=true" align="center" /></div>
 
 <br />
 
